@@ -1,17 +1,17 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) DS-NYC-DAT-45 | Final Project 2: Project Design Writeup and Approval Template
 
-Follow this as a guide to completing the project design writeup. The questions for each section are merely there to suggest what the baseline should cover; be sure to use detail as it will make the project much easier to approach as the class moves on.
+For my final project I have decided to use the data from the most popular online wine cellar: cellartracker.com
 
 ### Project Problem and Hypothesis
 
-- What's the project about? What problem are you solving?
-- Where does this seem to reside as a machine learning problem? Are you predicting some continuous number, or predicting a binary value?
-- What kind of impact do you think it could have?
+- The website cellartracker.com is a vast repository of wine descriptions and ratings
+- The descriptions of each wine use many of the standard words that are associated with wine tasting (aromas, textures, colours, feels)
+- 
 - What do you think will have the most impact in predicting the value you are interested in solving for?
 
 ### Datasets
 
-- Description of data set available, at the field level.  (see table)
+- The dataset is...
 - If from an API, include a sample return.  (this is usually included in API documentation!) (if doing this in markdown, use the JavaScript code tag)
 
 ### Domain knowledge
